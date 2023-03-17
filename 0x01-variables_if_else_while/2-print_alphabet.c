@@ -1,7 +1,3 @@
-/**
- * Auth: Mouhcine Ezzaidi
- */
-
 #include <stdio.h>
 
 /**
