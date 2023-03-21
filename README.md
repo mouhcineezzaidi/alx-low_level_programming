@@ -1,1 +1,1 @@
-Function and nested loops in C
+This folder is for C language learning
