@@ -1,1 +1,1 @@
-Functions and Nessted loops in C
+Functions and loops in C
