@@ -30,8 +30,6 @@ int main(void)
 		{
 			printf("FizzBuzz");
 		}
-		if (num < 100)
-			putchar(32);
 	}
 	putchar('\n');
 	return (0);
