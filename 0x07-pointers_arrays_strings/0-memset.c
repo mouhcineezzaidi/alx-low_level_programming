@@ -1,7 +1,5 @@
 #include "main.h"
-
 /**
- * Auth: Mouhcine Ezzaidi
  * *_memset - fills memory with a constant byte
  * @s: memory area to be filled
  * @b: char to copy
