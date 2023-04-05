@@ -5,7 +5,7 @@ int check_prime(int n, int i);
 /**
  * is_prime_number - gives final results if an integer is a prime number or not
  * @n: number to evaluate
- * Any number less than 1 are not prime
+ * Any number less than 1 is not prime
  * Auth: Mouhcine Ezzaidi
  *
  * Return: 1 if n is a prime number, 0 if not
