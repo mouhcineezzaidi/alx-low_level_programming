@@ -4,6 +4,7 @@
 /**
  * *_strdup - copies the string given as parameter
  * @str: string to duplicate
+ * Auth: Mouhcine Ezzaidi
  *
  * Return: pointer to the copied string (Success), NULL (Error)
  */
