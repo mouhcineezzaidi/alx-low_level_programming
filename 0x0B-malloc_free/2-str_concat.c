@@ -5,6 +5,7 @@
  * *str_concat - concatenates two strings
  * @s1: string to concatenate
  * @s2: other string to concatenate
+ * Auth: Mouhcine Ezzaidi
  *
  * Return: pointer to the new string created (Success), or NULL (Error)
  */
