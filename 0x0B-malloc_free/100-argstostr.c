@@ -4,6 +4,8 @@
   *argstostr - concatenates all arguments of the program.
   *@ac: argument count.
   *@av: pointer to array of size ac.
+  *Auth: Mouhcine Ezzaidi
+  *
   *Return: NULL if ac == 0 or av == null, Pointer to new string.
   *NULL on fail.
   */
