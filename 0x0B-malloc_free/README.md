@@ -1,1 +1,0 @@
-In this folder, you will be able to find: What is the difference between automatic and dynamic allocation? What are malloc and free and how to use them? Why and when use malloc? How to use Valgrind to check for memory leaks?
