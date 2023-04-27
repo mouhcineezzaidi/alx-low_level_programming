@@ -5,6 +5,7 @@ void first(void) __attribute__ ((constructor));
 /**
  * first - prints a sentence before the main
  * function is executed
+ * Auth: Mouhcine Ezzaidi
  */
 void first(void)
 {
